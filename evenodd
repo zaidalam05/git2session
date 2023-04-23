@@ -1,0 +1,3 @@
+let a=4;
+
+(a%2==4) ? console.log("Given Number is Even") : console.log("Given Number is odd");
